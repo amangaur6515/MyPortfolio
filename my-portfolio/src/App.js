@@ -7,7 +7,7 @@ import Navbar from './Shared/Navbar'
 import Footer from './Shared/Footer'
 function App() {
   return (
-    <div className="App">
+    <div >
       
       <Router>
       <Navbar/>
